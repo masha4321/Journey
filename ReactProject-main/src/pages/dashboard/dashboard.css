@@ -1,0 +1,29 @@
+.css-xoq6ea {
+    background-color: rgba(90, 83, 115,0.25)!important;
+    color: black;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 20px !important;
+    width: 400px !important;
+    
+}
+
+.css-1m4faer-MuiStack-root{
+    align-items: flex-start !important;
+    
+}
+
+.css-1m4faer-MuiStack-root>:not(style)+:not(style){
+    margin: 20px !important;
+}
+
+h2{
+    color: white !important;
+}
+
+.css-1cuxbmx-MuiButtonBase-root-MuiButton-root{
+    margin-left: 25% !important;
+    margin-right: 10% !important;
+    
+}
+

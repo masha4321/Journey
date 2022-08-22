@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+html{
+    height: 100%;
+}
+form{
+    text-align: center;
+    font-family: Lato;
+    padding: 10px;
+    
+}
+
+
+.signInPage{
+    margin-top: 100px;
+}
+
+#signInBtn{
+    margin: 1em;
+    font-family: Lato;
+    font-size: 20px; 
+    padding: 7px 30px 7px 30px;
+    background: #D9A79C;
+    border-radius: 25px;
+    border: #5A5373 1px;
+    color: white;
+}
+
+#email, #password, #firstName, #lastName, #confirmPassword{
+    width: 300px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    font-family: Lato;
+    letter-spacing: 1px;
+    background: rgb(255 255 255 / 70%);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    text-align: center;
+    margin-bottom: 27px;
+    }
+
+    .css-22hoag-MuiTypography-root{
+        font-family: Lato !important;
+    }
+
+    .css-2vujct{
+        padding: 40px !important;
+        margin-top: 30px;
+        
+    }
+
+    .css-ydyhrd {
+        align-items: center !important;
+    }
+
+    .css-13z1wcd-MuiGrid-root{
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+
+   

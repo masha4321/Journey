@@ -1,0 +1,29 @@
+.footer {
+  text-align: center;
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  margin: 0px !important;   
+  background-color: #5A5373;
+  color: white;
+  font-size: 25px;
+  font-weight: semi-bold;
+  font-family: Satisfy;
+  width: 100%;
+}
+
+.dark-footer {
+  text-align: center;
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  margin: 0px !important;   
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  font-weight: semi-bold;
+  font-family: Satisfy;
+  width: 100%;
+}

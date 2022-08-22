@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.box {
+    background-color: rgba(90, 83, 115,0.25);
+    backdrop-filter: blur(5px);
+    border-radius: 16px;
+}
+
+.quote-header {
+    text-align: center;
+    font-weight: semi-bold;
+    font-family: Satisfy;
+    color:white;
+
+}
+
+.quote-body, .author {
+    font-size:medium;
+    font-family: Lato;
+    color:white;
+}
+
+.btn{
+    font-family: Lato;
+    font-size: 20px; 
+    padding: 10px 50px 10px 50px;
+    background: #EDB694;
+    border-radius: 25px;
+    border: #5A5373 1px;
+    color: white;
+    margin-right: 20px;
+  }
+

@@ -1,0 +1,7 @@
+.box {
+    background-color: rgba(90, 83, 115,0.25);
+    backdrop-filter: blur(5px);
+    border-radius: 16px;
+    
+}
+

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.app{
+    height: 100vh;
+    
+}
+.light{
+    background-image: url("../src/img/Background2.jpg");
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    font-family: Lato;
+    background-color: #937181;
+    
+}
+
+.dark{
+    background-image: url("./components/DarkMode/Night_Background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    font-family: Lato;
+    background-color: black;
+}

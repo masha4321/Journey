@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.btn1{
+    font-family: Lato;
+    font-size: 20px; 
+    padding: 10px 50px 10px 50px;
+    background: #755670;
+    border-radius: 25px;
+    border: #8C6D87 3px solid;
+    color: white;
+    margin: 5px;
+    width: 60%;
+    border: 1px solid white;
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+h2{
+  margin: auto;
+  width: 100%;
+  border: 3px;
+  padding: 10px;
+  text-align: center;
+}
+
+.centered{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: white;
+}
+
+.completed{
+  text-align: center;
+  font-size: 45px;
+  color: #98FB98;
+}
+
+.personalQuizLink {
+
+}
+
+.redoQuizBtn{
+  
+}

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+/*h1{
+    text-align: center;
+    padding-top: 200px;
+    font-family: Lato;
+    color:white;
+    font-size: 50px;
+
+}
+
+.startJourney{
+    text-align: center;
+}
+
+#startJourneyButton{
+    font-family: Lato;
+    font-size: 20px; 
+    padding: 20px 70px 20px 70px;
+    background-color: rgba(109, 82, 105, .40);
+    border-radius: 25px;
+    border: #5A5373 1px;
+    color: white;
+    margin: 20px;
+    font-size: 30px;
+}*/
+
+.quiz{
+    text-align: center;
+    color: white;
+    font-family: Lato;
+    font-size: 30px; 
+    background-color: rgba(109, 82, 105, .40);
+    backdrop-filter: blur(10px);
+}
+
+#yesNoBtn{
+    font-family: Lato;
+    font-size: 25px; 
+    padding: 10px 50px 10px 50px;
+    background: #755670;
+    border-radius: 25px;
+    border: #8C6D87 3px solid;
+    color: white;
+    margin: 10px;
+  }
+
+  .result-section{
+    margin: 30px;
+  }
+
+  .question-count{
+    margin: 20px;
+  }
+
+  .question-text{
+    margin: 20px;
+  }
+
+  .complete-registration{
+    font-family: Lato;
+    font-size: 25px; 
+    padding: 10px 50px 10px 50px;
+    background: #755670;
+    border-radius: 25px;
+    border: #8C6D87 3px solid;
+    color: white;
+    margin: 10px;
+  }
+
+  
